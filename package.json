@@ -18,7 +18,7 @@
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.14",
     "mysql2": "^2.1.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sequelize": "^5.21.7"
   },
   "devDependencies": {
